@@ -7,7 +7,8 @@
 > [!TIP]
 > 此处建议上传你的演示视频或 GIF，并在下方替换路径。
 
-![小程序交互演示](path/to/your/demo.gif)
+![小程序交互演示](path/to/your/dem<img width="327" height="720" alt="演示" src="https://github.com/user-attachments/assets/1278f995-d309-4df0-9cfc-4b867c5af9dd" />
+o.gif)
 
 ## 🌟 项目亮点
 
