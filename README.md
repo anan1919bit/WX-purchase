@@ -22,8 +22,8 @@ o.gif)
 - **模块化页面**：包含精选推荐流、高保真登录/注册弹窗以及个人数据中心。
 
 ## 🛠️ 技术栈
-- **核心模型**：OpenAI Codex / DeepSeek-V3
-- **辅助工具**：VS Code + Roo Code / Cline
+- **核心模型**：OpenAI Codex / Gemini
+- **辅助工具**：VS Code + Roo Code / Cline /Cursor
 - **前端技术**：微信小程序原生框架 (WXML / WXSS / JavaScript)
 
 ## 📖 功能模块
